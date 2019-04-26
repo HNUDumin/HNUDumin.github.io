@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "HNUDumin / Blog"
+locale                   : "zh-CH"
+title                    : "HNUDumin's Blog"
 title_separator          : "-"
 name                     : &name "HNUDumin"
 description              : &description "Hunan University"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "杜敏"
   avatar           : "profile.png"
-  bio              : "Come on baby!"
+  bio              : "Try your best!"
   location         : "ChangSha, Hunan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://zscdumin.github.io"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/HNUDumin"
+  github           : "HNUDumin"
   google_plus      :
   keybase          :
   instagram        :
